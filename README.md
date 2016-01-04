@@ -19,9 +19,9 @@ the code to your server, simply link to the JavaScript and CSS files as describe
 
 
 ## CDN  
-JS  - ```http://cdn.rawgit.com/max-maxymenko/shadowbox/master/src/shadowbox.js```
+ JS - http://cdn.rawgit.com/max-maxymenko/shadowbox/master/src/shadowbox.js
 
-CSS - ```http://cdn.rawgit.com/max-maxymenko/shadowbox/master/src/shadowbox.css```
+CSS - http://cdn.rawgit.com/max-maxymenko/shadowbox/master/src/shadowbox.css
 
 # Setup
 The simplest way to set up Shadowbox is to include the JavaScript and CSS files in the <head> of your document (web
