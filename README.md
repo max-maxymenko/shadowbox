@@ -54,9 +54,12 @@ In order to set up this link for use with Shadowbox, simply change it to this:
 <a href="myimage.jpg" rel="shadowbox">My Image</a>
 ```
 
-
 That's it! Clicking on this link should now open up the image in Shadowbox
 
 
-
+# More
 For more docs go here - http://udel.edu/~aadavis/educ286/shadowbox/Shadowbox.js%20%BB%20Usage.pdf
+
+## CDN  
+JS  - ```http://cdn.rawgit.com/max-maxymenko/shadowbox/master/src/shadowbox.js```
+CSS - ```http://cdn.rawgit.com/max-maxymenko/shadowbox/master/src/shadowbox.css```
