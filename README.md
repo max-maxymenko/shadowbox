@@ -1,3 +1,4 @@
+[img]http://img.f-i-h.info/66ee6f9ed0f22977b202b413cea133ab.png[/img]
 # Description
 This is the original ShadowBox JS taken from www.shadowbox-js.com
 
