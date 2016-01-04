@@ -17,6 +17,12 @@ the entire folder to your web server. The exact location is not important since 
 where it is installed when it runs. However, it is important that you keep all of the files together. After you have uploaded
 the code to your server, simply link to the JavaScript and CSS files as described below.
 
+
+## CDN  
+JS  - ```http://cdn.rawgit.com/max-maxymenko/shadowbox/master/src/shadowbox.js```
+
+CSS - ```http://cdn.rawgit.com/max-maxymenko/shadowbox/master/src/shadowbox.css```
+
 # Setup
 The simplest way to set up Shadowbox is to include the JavaScript and CSS files in the <head> of your document (web
 page) and then call Shadowbox.init, like this:
@@ -59,7 +65,3 @@ That's it! Clicking on this link should now open up the image in Shadowbox
 
 # More
 For more docs go here - http://udel.edu/~aadavis/educ286/shadowbox/Shadowbox.js%20%BB%20Usage.pdf
-
-## CDN  
-JS  - ```http://cdn.rawgit.com/max-maxymenko/shadowbox/master/src/shadowbox.js```
-CSS - ```http://cdn.rawgit.com/max-maxymenko/shadowbox/master/src/shadowbox.css```
